@@ -10,16 +10,20 @@
 <h2> :trophy: Courses and trainings:</h2>
 
 - <b>GDPR law for Data Protection Inspector</b>
-- <b>Intelligence Analyst Level 1-3</b>
-- <b>OSINT - Open Source Intelligence</b>
+- [<b>Intelligence Analyst Level 1-3</b>](https://www.udemy.com/certificate/UC-587504fb-2db0-434e-b5e6-f2c722662ce9/)
+- [<b>OSINT - Open Source Intelligence</b>](https://www.udemy.com/certificate/UC-b185449a-3135-464f-864c-2e58c34e3b2f/)
 
   
 <h2>👨‍💻 Hands on cybersecurity projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Analysis of phishing e-mails</b>
+  - [As labs provided by Blue Team Level 1 certification course](https://coursera.org/share/311cc17ff9773fe31531f8acae3ac83d)
+- <b>Project of home network using Cisco Packet Tracer</b>
+  - [Hands on practical lab guided by instructor](https://coursera.org/share/311cc17ff9773fe31531f8acae3ac83d)
+- <b>Analyze network traffic with TCPDump</b>
+  - [Hands on practical lab guided by instructor](https://coursera.org/share/311cc17ff9773fe31531f8acae3ac83d)
+- <b>Wireshark for Beginners: Capture Packets</b>
+  - [Practical use and anlysis of packets captured with Wireshark](https://coursera.org/share/6e8b929f9dcb0e8dedf16d0aa73b7cfc)
 
  
   <h2>👨‍💻 Software Development Projects:</h2>
