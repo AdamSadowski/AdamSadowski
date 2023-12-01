@@ -17,7 +17,10 @@
 <h2>👨‍💻 Hands on cybersecurity projects:</h2>
 
 - <b>Analysis of phishing e-mails</b>
-  - [As labs provided by Blue Team Level 1 certification course](https://coursera.org/share/311cc17ff9773fe31531f8acae3ac83d)
+  - Analyzed malicious e-mails looking for artifacts such as: sender data, receipient data, IP address of the server, owner of the server;
+  - Checked links leading to potentialy malicious websites with tools such as: URL2PNG or URLScan;
+  - Extracted and anlyzed file hash in order to determine if they are malicious using public databases such as VirusTotal or Talos File Reputation;
+  - Prepared a sample report with recomendation of actions.
 - <b>Project of home network using Cisco Packet Tracer</b>
   - [Hands on practical lab guided by instructor](https://coursera.org/share/311cc17ff9773fe31531f8acae3ac83d)
 - <b>Analyze network traffic with TCPDump</b>
