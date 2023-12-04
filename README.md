@@ -28,12 +28,9 @@
 
  
   <h2>👨‍💻 Software Development Projects:</h2>
-- <b>Google cert project</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>emailer</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>filer</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Updating file with Python</b>
+  - [Follow the link for a code walkthrough](https://github.com/AdamSadowski/Update-File-with-Python)
+    
 
 <h2> ⌨️ Information Warfare Articles (in Polish)</h2>
 
