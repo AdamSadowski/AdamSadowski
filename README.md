@@ -1,13 +1,13 @@
 <h1>Hi, my name is Adam! <br/><a>Security Analyst</a>, <a>Cybesecurity Expert in training</a>, Reasercher</a></h1>
 
-<h2> :trophy: Cybersecurity certifications:</h2>
+<h2> 🏆 Cybersecurity certifications:</h2>
 
 - [<b>Google Cybersecurity Profesional</b>](https://coursera.org/share/1b16e1882444d895a2124238abe8bc10)
 
 - <b>Blue Team Level 1</b>
   - Certification in progress - 85% compleate
 
-<h2> :trophy: Courses and trainings:</h2>
+<h2> 🏆 Courses and trainings:</h2>
 
 - <b>GDPR law for Data Protection Inspector</b>
 - [<b>Intelligence Analyst Level 1-3</b>](https://www.udemy.com/certificate/UC-587504fb-2db0-434e-b5e6-f2c722662ce9/)
@@ -21,8 +21,6 @@
   - Checked links leading to potentialy malicious websites with tools such as: URL2PNG or URLScan;
   - Extracted and anlyzed file hash in order to determine if they are malicious using public databases such as VirusTotal or Talos File Reputation;
   - Prepared a sample report with recomendation of actions.
-- <b>Project of home network using Cisco Packet Tracer</b>
-  - [Hands on practical lab guided by instructor](https://coursera.org/share/311cc17ff9773fe31531f8acae3ac83d)
 - <b>Analyze network traffic with TCPDump</b>
   - [Hands on practical lab guided by instructor](https://coursera.org/share/311cc17ff9773fe31531f8acae3ac83d)
 - <b>Wireshark for Beginners: Capture Packets</b>
@@ -52,17 +50,3 @@
 
 [twitter]: https://twitter.com/AdamSados
 [linkedin]: https://www.linkedin.com/in/adam-sadowski-b137ba62/
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
