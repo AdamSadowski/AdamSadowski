@@ -16,6 +16,7 @@
   
 <h2>👨‍💻 Hands on cybersecurity projects:</h2>
 
+- [<b>Solving Meerkat Sherlock on HTB</b>](https://www.hackthebox.com/achievement/sherlock/1742065/552)
 - [<b>Analysis of phishing e-mails</b>](https://elearning.securityblue.team/public/lab-certificate/2bbe408f-1fe0-4a24-ad44-3bcd3cff6b4e)
   - Analyzed malicious e-mails looking for artifacts such as: sender data, recipient data, IP address of the server, owner of the server;
   - Checked links leading to potentially malicious websites with tools such as: URL2PNG or URLScan;
