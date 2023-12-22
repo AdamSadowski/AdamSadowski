@@ -4,8 +4,10 @@
 
 - [<b>Google Cybersecurity Professional</b>](https://coursera.org/share/1b16e1882444d895a2124238abe8bc10)
 
-- <b>Blue Team Level 1</b>
-  - Certification in progress - 85% complete
+- [<b>Blue Team Level 1</b>](https://elearning.securityblue.team/home/certificate/819013158) 
+
+- <b>CySa+ - preparing for examination
+
 
 <h2> 🏆 Courses and trainings:</h2>
 
