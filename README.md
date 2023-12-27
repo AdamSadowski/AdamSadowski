@@ -18,7 +18,16 @@
   
 <h2>👨‍💻 Hands on cybersecurity projects:</h2>
 
-- [<b>Solving Meerkat Sherlock on HTB</b>](https://www.hackthebox.com/achievement/sherlock/1742065/552)
+- [<b>Solving online labs and challenges:</b>]
+  - [Meerkat](https://www.hackthebox.com/achievement/sherlock/1742065/552) - analyzing network traffic for IOC connected to security incident;
+  - [Phishing Analysis](https://blueteamlabs.online/achievement/share/challenge/62127/16) - analyzing e-mails for IOC;
+  - [Phishing Analysis level 2](https://blueteamlabs.online/achievement/share/challenge/62127/24) - analyzing e-mails for IOC and analyzing attached malware;
+  - [ATT&CK](https://blueteamlabs.online/achievement/share/challenge/62127/15) - OSINT based challange featuring ATT&CK framework;
+  - [Malicious PowerShell Analysis](https://blueteamlabs.online/achievement/share/challenge/62127/7) - Analyzing obfuscated PowerShell script;
+  - [Network Analysis - Ransomware](https://blueteamlabs.online/achievement/share/challenge/62127/3) - Using Wire-Shark for analysis of Ransomware incident.
+  - Hyperfiletable - 90% done - Analyzing mft file looking for artifacts;
+  - OpTinselTrace-1 - 75% done - Analyzing forensic disk image to locate and analyze insider threat.
+    
 - [<b>Analysis of phishing e-mails</b>](https://elearning.securityblue.team/public/lab-certificate/2bbe408f-1fe0-4a24-ad44-3bcd3cff6b4e)
   - Analyzed malicious e-mails looking for artifacts such as: sender data, recipient data, IP address of the server, owner of the server;
   - Checked links leading to potentially malicious websites with tools such as: URL2PNG or URLScan;
