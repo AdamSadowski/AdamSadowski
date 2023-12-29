@@ -24,9 +24,10 @@
   - [Phishing Analysis level 2](https://blueteamlabs.online/achievement/share/challenge/62127/24) - analyzing e-mails for IOC and analyzing attached malware;
   - [ATT&CK](https://blueteamlabs.online/achievement/share/challenge/62127/15) - OSINT based challange featuring ATT&CK framework;
   - [Malicious PowerShell Analysis](https://blueteamlabs.online/achievement/share/challenge/62127/7) - Analyzing obfuscated PowerShell script;
-  - [Network Analysis - Ransomware](https://blueteamlabs.online/achievement/share/challenge/62127/3) - Using Wire-Shark for analysis of Ransomware incident.
-  - Hyperfiletable - 90% done - Analyzing mft file looking for artifacts;
-  - OpTinselTrace-1 - 75% done - Analyzing forensic disk image to locate and analyze insider threat.
+  - [Network Analysis - Ransomware](https://blueteamlabs.online/achievement/share/challenge/62127/3) - Using Wire-Shark for analysis of Ransomware incident;
+  - [OpTinselTrace-1](https://labs.hackthebox.com/achievement/sherlock/1742065/577) - Analyzing forensic disk image to locate and analyze insider threat;
+  - Hyperfiletable - 90% done - Analyzing mft file looking for artifacts.
+ 
     
 - [<b>Analysis of phishing e-mails</b>](https://elearning.securityblue.team/public/lab-certificate/2bbe408f-1fe0-4a24-ad44-3bcd3cff6b4e)
   - Analyzed malicious e-mails looking for artifacts such as: sender data, recipient data, IP address of the server, owner of the server;
