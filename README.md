@@ -23,9 +23,14 @@
   - [Phishing Analysis](https://blueteamlabs.online/achievement/share/challenge/62127/16) - analyzing e-mails for IOC;
   - [Phishing Analysis level 2](https://blueteamlabs.online/achievement/share/challenge/62127/24) - analyzing e-mails for IOC and analyzing attached malware;
   - [ATT&CK](https://blueteamlabs.online/achievement/share/challenge/62127/15) - OSINT based challange featuring ATT&CK framework;
+  - [Bruteforce](https://blueteamlabs.online/achievement/share/challenge/62127/40) - Analyzing Windows events log to gather IOC of Bruteforce attack conducted on an endpoint;
   - [Malicious PowerShell Analysis](https://blueteamlabs.online/achievement/share/challenge/62127/7) - Analyzing obfuscated PowerShell script;
   - [Network Analysis - Ransomware](https://blueteamlabs.online/achievement/share/challenge/62127/3) - Using Wire-Shark for analysis of Ransomware incident;
   - [OpTinselTrace-1](https://labs.hackthebox.com/achievement/sherlock/1742065/577) - Analyzing forensic disk image to locate and analyze insider threat;
+  - [Browser Forensics - Cryptominer](https://blueteamlabs.online/achievement/share/challenge/62127/2) - using FTK Imager to investigate a CryptoMiner extension installed on Google Chrome;
+  - [Log Analysis - Privilege Escalation](https://blueteamlabs.online/achievement/share/challenge/62127/4) - analyzing saved commands to assess Privilege Escalation caused by SUID missconfiguration;
+  - [The Report - Threat Analysis](https://blueteamlabs.online/achievement/share/challenge/62127/42) - analysis of Red Cannary 2022 Threat Detection Report;
+  - [Meta](https://blueteamlabs.online/achievement/share/challenge/62127/39) - Using exiftool to analyze photograph metadata
   - Hyperfiletable - 90% done - Analyzing mft file looking for artifacts.
  
     
