@@ -31,6 +31,7 @@
   - [Log Analysis - Privilege Escalation](https://blueteamlabs.online/achievement/share/challenge/62127/4) - analyzing saved commands to assess Privilege Escalation caused by SUID missconfiguration;
   - [The Report - Threat Analysis](https://blueteamlabs.online/achievement/share/challenge/62127/42) - analysis of Red Cannary 2022 Threat Detection Report;
   - [Meta](https://blueteamlabs.online/achievement/share/challenge/62127/39) - Using exiftool to analyze photograph metadata
+  - [Log Analysis – Compromised WordPress](https://blueteamlabs.online/achievement/share/challenge/62127/9) - Analyzing Worpress logs, looking for IOC's
   - Hyperfiletable - 90% done - Analyzing mft file looking for artifacts.
  
     
