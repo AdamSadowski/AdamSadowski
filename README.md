@@ -20,6 +20,7 @@
 
 - [<b>Solving online labs and challenges:</b>]
   - [Meerkat](https://www.hackthebox.com/achievement/sherlock/1742065/552) - analyzing network traffic for IOC connected to security incident;
+  - [Litter](https://labs.hackthebox.com/achievement/sherlock/1742065/555) - analyzing .pcap file connected to DLL tunneling data exfiltration;
   - [Phishing Analysis](https://blueteamlabs.online/achievement/share/challenge/62127/16) - analyzing e-mails for IOC;
   - [Phishing Analysis level 2](https://blueteamlabs.online/achievement/share/challenge/62127/24) - analyzing e-mails for IOC and analyzing attached malware;
   - [ATT&CK](https://blueteamlabs.online/achievement/share/challenge/62127/15) - OSINT based challange featuring ATT&CK framework;
