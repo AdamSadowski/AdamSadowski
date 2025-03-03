@@ -4,7 +4,7 @@
 
 - [<b>Certified Defensive Security Analyst (HTB CDSA)</b>](https://www.credly.com/badges/068a350b-1687-4ef2-8760-a634a636a53d/public_url)
 
-- [<b>Blue Team Level 1</b>](https://elearning.securityblue.team/home/certificate/819013158)
+- [<b>Blue Team Level 1</b>](https://www.credly.com/badges/650b56fd-b039-4cec-94d8-1693b6bd41be/public_url)
 
 - [<b>CompTIA Security+</b>](https://www.credly.com/badges/22267d25-df71-423e-9671-ef88ec9c292d/public_url)
 
