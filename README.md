@@ -2,9 +2,23 @@
 
 <h2> 🏆 Cybersecurity certifications:</h2>
 
-- [<b>Google Cybersecurity Professional</b>](https://coursera.org/share/1b16e1882444d895a2124238abe8bc10)
+- [<b>Certified Defensive Security Analyst (HTB CDSA)</b>](https://www.credly.com/badges/068a350b-1687-4ef2-8760-a634a636a53d/public_url)
 
-- [<b>Blue Team Level 1</b>](https://elearning.securityblue.team/home/certificate/819013158) 
+- [<b>Blue Team Level 1</b>](https://elearning.securityblue.team/home/certificate/819013158)
+
+- [<b>CompTIA Security+</b>](https://www.credly.com/badges/22267d25-df71-423e-9671-ef88ec9c292d/public_url)
+
+- [<b>SC-200 Microsoft Certified: Security Operations Analyst Associate</b>](https://learn.microsoft.com/api/credentials/share/en-us/AdamSadowski-3659/CB7837528AED7564?sharingId=AB5195CB570031E)
+
+- [<b>Splunk Core Certified User;</b>](https://www.credly.com/badges/702621fd-6b0f-4e6a-8f37-797bd23456e0/public_url)
+
+- [<b>SC-900 Microsof Certified: Security, Compliance, and Identity Fundamentals;</b>](https://learn.microsoft.com/api/credentials/share/en-us/AdamSadowski-3659/1FE273656EC7F20D?sharingId=AB5195CB570031E)
+
+- [<b>AZ-900 Microsoft Certified: Azure fundamentals;</b>](https://learn.microsoft.com/api/credentials/share/en-us/AdamSadowski-3659/E98D34248C3B5495?sharingId=AB5195CB570031E)
+
+- [<b>MS-900 Microsoft 365 Certified: Fundamentals</b>](https://learn.microsoft.com/api/credentials/share/en-us/AdamSadowski-3659/891033E7423CF4F6?sharingId=AB5195CB570031E)
+
+- [<b>Google Cybersecurity Professional</b>](https://coursera.org/share/1b16e1882444d895a2124238abe8bc10)
 
 - <b>CySa+ - preparing for examination
 
